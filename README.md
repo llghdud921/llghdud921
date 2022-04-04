@@ -1,6 +1,6 @@
 
-<img src="https://user-images.githubusercontent.com/40068674/161514224-2e42d0dc-f19b-4a21-8d8e-0b967f91a119.jpg" width="400" height="300">
-                                                                                                                                        
+<img src="https://user-images.githubusercontent.com/40068674/161518262-ea900153-b027-4985-a130-b2e097096f52.gif" width="400" height="300">
+                                                                                                                          
 ### Welcome 👋 
 
 l'm IOS Delveloper. nickName is **Jerry**
