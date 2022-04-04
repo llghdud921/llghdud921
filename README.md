@@ -1,16 +1,20 @@
-### Hi there 👋
+### 안녕하세요! Hi there 👋 
 
-<!--
-**llghdud921/llghdud921** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- ⌚️ l'm mobile ios Delveloper.
+- 🐹 l'm Jerry.
 
-Here are some ideas to get you started:
+**🗒 Career**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📋 Yapp 2022.04 ~ 
+  - 20th Member as a IOS Developer
+- 🐻 Yagom Academy Carrer-Stater Camper 2021.10 ~ 2022.04 
+  - 5th Member 
+
+**🛠 Skills**
+
+<p align="left">
+<img src="https://img.shields.io/badge/-iOS-%23000000?logo=Apple&logoColor=white"/> &nbsp
+<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/> &nbsp
+</p>
+
+
