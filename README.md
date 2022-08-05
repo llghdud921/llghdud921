@@ -8,7 +8,7 @@ l'm IOS Delveloper. nickName is **Jerry**
 ---
 **📆 Career**
 
-⛺️ l'm studying with [Yapp](https://www.yapp.co.kr/) (2022.04 ~ ) 
+⛺️ l'm studying with [Yapp](https://www.yapp.co.kr/) (2022.04 ~ 2022.08) 
 
   - 20th Member as a IOS Developer
   
