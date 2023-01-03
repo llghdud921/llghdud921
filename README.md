@@ -15,9 +15,9 @@ l'm IOS Delveloper. nickName is **Jerry**
   
   <br>
   
-🐻 l studied IOS in [Yagom Academy](https://www.yagom-academy.kr/) (2021.10 ~ 2022.04) 
+🐻 l studied IOS in [Yagom Academy](https://www.yagom-academy.kr/) 
 
-  - Career Stater 4th Camper
+  - Career Stater 4th Camper (2021.10 ~ 2022.04) 
   - learning assistant of Code Starter Camp 4th (2022.04 ~ 2022.05)
 
 ---
