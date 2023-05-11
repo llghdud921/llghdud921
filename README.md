@@ -8,10 +8,15 @@ l'm IOS Delveloper. nickName is **Nelly**
 ---
 **📆 Career**
 
+🤸 I'm working at [Shopl](https://www.shoplworks.com/) (2023.03 ~ )
+
+<br>
+
 ⛺️ l'm studying with [Yapp](https://www.yapp.co.kr/) (2022.04 ~ ) 
 
   - 20th Member as a IOS Developer
   - 21st Member as a IOS Developer
+  - 22nd IOS Team Management 
   
   <br>
   
