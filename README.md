@@ -16,7 +16,7 @@ l'm iOS Delveloper. nickName is **Nelly**
 
   - 20th Member as a iOS Developer
   - 21st Member as a iOS Developer
-  - 22nd IOS Team Management 
+  - 22nd iOS Team Management 
   
   <br>
   
