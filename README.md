@@ -3,7 +3,7 @@
                                                                                                                           
 ### Welcome 👋 
 
-l'm IOS Delveloper. nickName is **Nelly**
+l'm iOS Delveloper. nickName is **Nelly**
 
 ---
 **📆 Career**
@@ -14,13 +14,13 @@ l'm IOS Delveloper. nickName is **Nelly**
 
 ⛺️ l'm studying with [Yapp](https://www.yapp.co.kr/) (2022.04 ~ ) 
 
-  - 20th Member as a IOS Developer
-  - 21st Member as a IOS Developer
+  - 20th Member as a iOS Developer
+  - 21st Member as a iOS Developer
   - 22nd IOS Team Management 
   
   <br>
   
-🐻 l studied IOS in [Yagom Academy](https://www.yagom-academy.kr/) 
+🐻 l studied iOS in [Yagom Academy](https://www.yagom-academy.kr/) 
 
   - Career Stater 4th Camper (2021.10 ~ 2022.04) 
   - learning assistant of Code Starter Camp 4th (2022.04 ~ 2022.05)
