@@ -8,7 +8,7 @@ l'm iOS Delveloper. nickName is **Nelly**
 ---
 **📆 Career**
 
-🤸 I'm working at [Shopl](https://www.shoplworks.com/) (2023.03 ~ )
+🤸 I'm working at [Shopl](https://www.shoplworks.com/) (2023.03 ~ 2023.08)
 
 <br>
 
