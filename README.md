@@ -3,7 +3,7 @@
                                                                                                                           
 ### Welcome 👋 
 
-l'm iOS Delveloper. nickName is **Nelly**
+l'm iOS Delveloper. nickName is **Jerry**
 
 ---
 **📆 Career**
