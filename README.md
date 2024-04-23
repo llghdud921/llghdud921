@@ -10,7 +10,7 @@ l'm iOS Delveloper. nickName is **Jerry**
 
 📔 I'm working at [Sling](https://www.orzo.kr/) (2023.11 ~ )
 
-🤸 I'm workied at [Shopl](https://www.shoplworks.com/) (2023.03 ~ 2023.08)
+🤸 I'm worked at [Shopl](https://www.shoplworks.com/) (2023.03 ~ 2023.08)
 
 <br>
 
