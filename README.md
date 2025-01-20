@@ -8,7 +8,7 @@ l'm iOS Delveloper. nickName is **Jerry**
 ---
 **📆 Career**
 
-📔 I'm working at [Sling](https://www.orzo.kr/) (2023.11 ~ )
+📔 I'm worked at [Sling](https://www.orzo.kr/) (2023.11 ~ 2024.12)
 
 🤸 I'm worked at [Shopl](https://www.shoplworks.com/) (2023.03 ~ 2023.08)
 
